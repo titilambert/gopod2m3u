@@ -2,9 +2,5 @@ daemon:
   interval: 5s
 download_folder: podcasts
 podcasts:
-- name: moscato
-  url: https://podcast.rmc.fr/channel131/RMCInfochannel131.xml
-  keep: 8
-- name: afterfoot
-  url: https://podcast.rmc.fr/channel59/RMCInfochannel59.xml
-  keep: 10
+- name: mike
+  url: http://feeds.feedburner.com/MikeWardSouscoute
