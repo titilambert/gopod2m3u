@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "AsR4mwCc2eGqcPb4xHklV5/stmc=",
+			"path": "github.com/grafov/m3u8",
+			"revision": "6ab8f28ed427e7ab787340596709e27ecc4b32db",
+			"revisionTime": "2017-12-11T21:24:57Z"
+		},
+		{
+			"checksumSHA1": "YzqH17VerNUuZtKOaIr0caXogfI=",
+			"path": "github.com/nandosousafr/podfeed",
+			"revision": "814572ee763be81614709e17dccb08ed028d5697",
+			"revisionTime": "2016-06-05T21:53:54Z"
+		},
+		{
+			"checksumSHA1": "CrwV2Az3LIl8uFhA1/wCdXQsCi0=",
+			"path": "github.com/sevlyar/go-daemon",
+			"revision": "f9261e73885de99b1647d68bedadf2b9a99ad11f",
+			"revisionTime": "2018-05-31T16:55:17Z"
+		},
+		{
+			"checksumSHA1": "ZSWoOPUNRr5+3dhkLK3C4cZAQPk=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
+			"revisionTime": "2018-03-28T19:50:20Z"
+		}
+	],
+	"rootPath": "github.com/titilambert/gopod2m3u"
+}
